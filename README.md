@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Workbench](https://github.com/sonnyp/Workbench)
 
-- 🌱 I’m currently learning **GTK4**
+- 🌱 I’m currently learning **GTK4, GJS, Vala**
 
 - 📝 I regularly write articles on [https://josecodes.hashnode.dev/](https://josecodes.hashnode.dev/)
 
