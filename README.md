@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=halfmexican" alt="halfmexican" /></a> </p>
 
-- 🔭 I’m currently working on [Workbench](https://github.com/sonnyp/Workbench)
+- 🔭 I’m currently working on [Mingle](https://github.com/halfmexican/mingle)
 
 - 🌱 I’m currently learning **GTK4, GJS, Vala**
 
