@@ -7,10 +7,6 @@
 
 - 🔭 I’m currently working on [Mingle](https://github.com/halfmexican/mingle)
 
-- 🌱 I’m currently learning **GTK4, GJS, Vala**
-
-- 📝 I regularly write articles on [https://josecodes.hashnode.dev/](https://josecodes.hashnode.dev/)
-
 - ⚡ Fun fact **I have epilepsy**
 
 <h3 align="left">Languages and Tools:</h3>
