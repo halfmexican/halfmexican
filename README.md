@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm José</h1>
-<h3 align="center">A FOSS nerd and developer</h3>
+<h3 align="center">A GNOME Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=halfmexican&label=Profile%20views&color=0e75b6&style=flat" alt="halfmexican" /> </p>
 
